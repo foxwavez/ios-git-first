@@ -6,6 +6,13 @@
 build/
 DerivedData/
 
+#Custom
+
+hidden/
+*.pem
+*.java
+confidential.*
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
